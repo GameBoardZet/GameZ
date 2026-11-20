@@ -1,1 +1,2 @@
-# GameZ
+# GameBoard
+GameBoard
